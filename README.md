@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loag0, a rookie in coding
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 🌱 I’m currently learning C, Flutter (Dart) and SQL.
 - 💞️ I’m looking to collaborate on any start-up projects that that require basic coding abilities 
 - 📫 How to reach me: loagomoremi@gmail.com
 
