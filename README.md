@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @loag0, a rookie in coding
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C, Flutter (Dart) and SQL.
-- 💞️ I’m looking to collaborate on any start-up projects that that require basic coding abilities 
-- 📫 How to reach me: loagomoremi@gmail.com
+# Hi, I'm Loago 👋
+
+I'm a Computer Science student with a strong interest in software development, problem-solving, and learning how things work under the hood. I enjoy exploring different areas of tech, and improving every step of the way.
+
+## 🧰 Tech Stack
+
+- **Languages**: Python, Java, JavaScript, C++
+- **Web**: HTML, CSS, basic React
+- **Tools**: Git & GitHub, VS Code
+- **Currently Learning**: Data Structures & Algorithms, full-stack development
+
+## 📈 Goals
+
+- Become more consistent with personal projects
+- Stay job-market ready 💼
+
+## 📫 Contact
+
+Feel free to connect or collaborate:
+
+- Email: loagomoremi@gmail.com
+
+---
+
+Thanks for stopping by!
 
 <!---
 loag0/loag0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
