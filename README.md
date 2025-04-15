@@ -20,7 +20,7 @@ I'm a Computer Science student with a strong interest in software development, p
 
 ## 🔗 Links
 - Personal website: coming soon™
-- Email: [loagomoremi@gmail.com](mailto:your@email.com)
+- Email: [loagomoremi@gmail.com](mailto:loagomoremi@gmail.com)
 
 ---
 
