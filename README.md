@@ -14,11 +14,13 @@ I'm a Computer Science student with a strong interest in software development, p
 - Become more consistent with personal projects
 - Stay job-market ready 💼
 
-## 📫 Contact
+## 📌 Some Projects
+- [FieldSet Devices](https://loag0.github.io/Fieldset-Devices) – a simple frontend website from a school assignment
+- More stuff coming soon
 
-Feel free to connect or collaborate:
-
-- Email: loagomoremi@gmail.com
+## 🔗 Links
+- Personal website: coming soon™
+- Email: [loagomoremi@gmail.com](mailto:your@email.com)
 
 ---
 
