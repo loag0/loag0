@@ -16,6 +16,7 @@ I'm a Computer Science student with a strong interest in software development, p
 
 ## 📌 Some Projects
 - [FieldSet Devices](https://loag0.github.io/Fieldset-Devices) – a simple frontend website from a school assignment
+- [MediFind](https://github.com/loag0/MediFind) - a doctor appointment app built with React
 - More stuff coming soon
 
 ## 🔗 Links
