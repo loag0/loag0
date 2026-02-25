@@ -18,7 +18,7 @@ I'm a Computer Science student with a strong interest in software development, p
 - More stuff coming soon
 
 ## 🔗 Links
-- Personal website: coming soon™
+- Personal [website](https://loag0.github.io)
 - Email: [loagomoremi@gmail.com](mailto:loagomoremi@gmail.com)
 
 ## 🌐 Socials:
