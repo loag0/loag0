@@ -14,7 +14,6 @@ I'm a Computer Science student with a strong interest in software development, p
 ## Some Projects
 - [brAInwave](https://github.com/loag0/brAInwave) - AI planning study assistant for students
 - [copus](https://github.com/loag0/copus) - lightweight audio converter for mp3 files to opus or ogg formats
-- [FieldSet Devices](https://loag0.github.io/Fieldset-Devices) – a simple frontend website from a school assignment
 
 ## Links
 - Personal [website](https://loag0.github.io)
